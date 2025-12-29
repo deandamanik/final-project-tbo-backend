@@ -13,11 +13,11 @@ ADVERBS = ["sedang","akan","telah","sudah","baru","pernah","belum","selalu","ser
 ADJECTIVES = ["baik","buruk","besar","kecil","tinggi","pendek","panjang","cepat","lambat","mahal","murah","pintar","cerdas","rajin","ganteng","cantik","bersih","kotor","baru","lama"]
 
 TERMINALS = {
-    "PRONOUN": PRONOUNS,
-    "VERB": VERBS,
-    "NOUN": NOUNS,
-    "DET": DETERMINERS,  
-    "PREP": PREPOSITIONS,
-    "ADV": ADVERBS,
-    "ADJ": ADJECTIVES
+    "KATA_GANTI": PRONOUNS,
+    "KATA_KERJA": VERBS,
+    "KATA_BENDA": NOUNS,
+    "KATA_SANDANG": DETERMINERS,
+    "KATA_DEPAN": PREPOSITIONS,
+    "KATA_KETERANGAN": ADVERBS,
+    "KATA_SIFAT": ADJECTIVES
 }
